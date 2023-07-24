@@ -1,0 +1,18 @@
+{
+    "name": "Korolev",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/korolev_22_03.html",
+    "icons": [
+        {
+          "src": "icon.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+    
+      ]
+  }
+
+ 
